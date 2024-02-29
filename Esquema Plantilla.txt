@@ -1,0 +1,4 @@
+Template principal
+resources\views\layout\master.blade.php
+@yield('content')
+
